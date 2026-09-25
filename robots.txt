@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.fbueljp.cn/sitemap.xml
